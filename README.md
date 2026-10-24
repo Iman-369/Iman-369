@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Iman Ahmadyan 👋
 
-<!--
-**Iman-369/Iman-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm Iman, an aspiring web developer focused on learning, building projects, and improving my development skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical projects and creating clean, responsive, and user-friendly web experiences.
+
+## 🚀 About Me
+
+- 🌱 Currently learning web development
+- 💻 Building my personal portfolio and practical projects
+- 🎯 Focused on writing clean, maintainable code
+- 📚 Learning by building and improving real projects
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📌 Featured Projects
+
+My projects will be showcased here as I continue building and learning.
+
+## 📫 Connect With Me
+
+- GitHub: [@Iman-369](https://github.com/Iman-369)
+
+---
+
+*Learning, building, and improving — one project at a time.*
